@@ -8,7 +8,7 @@ Alumnos:
 -Jhon Berly Taipe Alccaccahua
 -Brian Jesse Bermudez Navarro
 
-LINK DE GITHUB:
+LINK DE GITHUB: https://github.com/brianjesse1/Tarea-3-en-raya-1ra-parte-/blob/main/main.cpp
 */
 
 #include <iostream>
